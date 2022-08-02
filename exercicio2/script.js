@@ -13,3 +13,15 @@ const filme = {
 };
 
 // respostas aqui ⬇️
+
+// a
+console.log(filme.elenco.shift());
+
+//b
+console.log(filme.elenco.pop());
+
+//c
+console.log(filme.transmissoesHoje);
+
+// d
+console.log(filme.transmissoesHoje[1]);
